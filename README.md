@@ -1,2 +1,2 @@
 # Demo Header
-This repo isn't nearly done yet
+This repo will be completed by July 2022.
